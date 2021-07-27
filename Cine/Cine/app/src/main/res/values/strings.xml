@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Cine</string>
+
+    <string-array name="Pelicula">
+
+        <item>  Avengers EndGame </item>
+        <item>  El hoyo </item>
+        <item>  El hombre fantasma </item>
+        <item>  Amelie </item>
+        <item>  Alicia en el país de las maravillas </item>
+        <item>  Milagro en la celda 7 </item>
+
+
+    </string-array>
+
+    <string name="etPelicula"></string>
+    <string name="tvSinopsis">"SINOPSIS</string>
+    <string name="btnTrailer">TRAILER</string>
+    <string name="btnReserva">RESERVA</string>
+</resources>
